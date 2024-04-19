@@ -1,0 +1,33 @@
+wiki/1
+
+§ CSS
+
+⸺ by Charles Iliya Krempeaux
+
+**CSS**, short for **cascading style sheets**, is a technology of the [[world-wide-web]].
+
+**CSS** is a [[human-legible]] [[source-code]] for //styling//.
+It is used when doing [[web-development]] to //style// a [[web-page]] written in [[html]], [[xml]], or [[xul]].
+
+**CSS** looks like this:
+
+	body {
+		background-color: #e7dec7;
+		color: #5d4c32;
+	}
+	
+	main {
+		text-align: justify;
+	}
+	
+	.screaming {
+		font-weight: bold;
+		text-transform: uppercase;
+	}
+
+Somewhat comparable technologies to **CSS** include:
+
+• [[xsl]]
+• [[xslt]]
+
+I recall hearing a story, decades ago, that **CSS** was based on styling technology from the [[wordperfect]] [[word-processor]] software.
