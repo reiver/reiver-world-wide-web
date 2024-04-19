@@ -35,6 +35,7 @@ For more information on the **world wide web** see the following topics —
 §§§ H
 
 • [[html]]
+•• [[html/elements]]
 • [[http]]
 •• [[http/0.9]]
 •• [[http/1.0]]
