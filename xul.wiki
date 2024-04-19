@@ -1,0 +1,47 @@
+wiki/1
+
+§ XUL
+
+⸺ by Charles Iliya Krempeaux
+
+**XUL**, which is short for **XML User Interface Language**, is an [[xml]]-based [[markup-language]] for creating [[graphical-user-interface]]s (**GUI**s).
+**XUL** was developed by people doing work for  Mozilla.
+
+§§ XUL XML Namespace
+
+The [[xml-namespace]] for **XUL** is:
+
+	http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul
+
+§§ Ghostbusters Easter-Egg
+
+If you that page, you are greeted with the message:
+
+― There is no data.
+― There is only XUL!
+
+This is an //homage// to a line in the (original) **Ghostbusters** movie from the year 1984 —
+
+― There is no Dana.
+― There is only Zuul!
+
+§§ XUL Example
+
+This is a very, very simple **XUL** file —
+
+	<?xml version="1.0"?>
+	
+	<!DOCTYPE window>
+	
+	<window id="helloworld" width="640" height="480" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+		<description value="Hello world!" />
+	</window>
+
+§§ History of XUL
+
+Although many conjectured and talked about the creation of a markup language for GUIs — **XUL** along with [[gladexml]], were the first 2 GUI [[markup-languange]]s (that I am aware of anyway).
+These 2 similar technologies seemed to be created independently of each other and largely without knowledge of the other.
+
+§§ XUL versus XAML
+
+[[XAML]] is essentially a copy of **XUL**.
