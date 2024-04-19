@@ -1,0 +1,68 @@
+wiki/1
+
+§ XML
+
+⸺ by Charles Iliya Krempeaux
+
+**XML**, short for **Extensible Markup Language**, refers to a couple of different things.
+
+The first is that **XML** is a [[markup-language]] and [[data-format]] much like [[html]].
+What used to be one of the more popular examples of this is — [[rss]].
+But many, many others exist, too, including — [[atom-format]], [[gdf]], [[gladexml]], [[mathml]], [[rdf]], [[smil]], [[svg]], [[xaml]], [[xforms]], [[xhtml]], [[xsl]], [[xslt]], [[xspf]], [[xul]], and many others.
+
+The second is that **XML** is a paradigm for creating [[markup-language]]s.
+
+§§ Early XML Misconceptions
+
+At the time when **XML** was being created, it was believed by many (including myself) that **XML** would be a way for web developers to create new tags and elements for HTML.
+This turned out to be a somewhat naive view of **XML**.
+Coming from that point-of-view, it seems that **XML** turned out to sometimes be a way of creating alternates to **HTML**.
+(Although **XML**'s applicaions go beyond this..)
+
+§§ Common XML Use-Cases
+
+Today **XML** has found much popularity as a way of developing interchange formats; as a platform and paradigm neutral way of communicating; and as a language for creating languages.
+
+§§ XML versus Semantic HTML
+
+Some have argued that **XML** is unneeded.
+That all one needs to do is use [[semantic-html]] (which //could// include [[microformats]]).
+And although I believe that the use of [[semantic-html]] is powerful; I believe that it is //not// always a good replaced for **XML**.
+The reason for this is that parsing [[semantic-html]] is much much more complex than parsing **XML**.
+Which means that, although a beginner could create a (wrong but working) **XML** parser — a begineer would have great difficulty creating a [[semantic-html]] parser.
+The learning curve to create a [[semantic-html]] parser is much much steeper than the leaning curve for parsing **XML**.
+
+Because of this I believe that in many situations **XML** is a better choice than Semantic HTML because **XML** allows for quick adoption of many kinds of technologies based on it (because of the ease with which parsers can be written).
+Having said that, however, there still are many many situations where Semantic HTML it the better choice.
+(These are situations where developers do NOT have to write parsers to parse the Semantic HTML.
+Many of these could be characterized by calling them in-browser technologies.
+Technologies that rely on the browsers CSS or JavaScript facilities for parsing the Semantic HTML.)
+
+§§ Decline Of XML
+
+Rather than being used for [[markup-language]]s, such as something like this —
+
+	<?xml version="1.0"?>
+	
+	<message>
+		I am writing <italics>this</italics> message to <name><given-name>Joe</given-name> <family-name>Blow</family-name></name>.
+	</message>
+
+— **XML** was very very commonly used to encode [[hierarchical-name-value-pairs]]; such as something like this —
+
+	<?xml version="1.0"?>
+	
+	<address>
+		<locality>North Pole</locality>
+		<region>Nunavut</region>
+		<country-name>Canada</country-name>
+		<postal-code>H0H 0H0</postal-code>
+	</address>
+
+This drew criticism.
+The jist of those criticisms was that — **XML** was too verbose, and made file sizes much much larger than necessary.
+
+[[json]] largely replaced **XML** for the use-case of encoding [[hierarchical-name-value-pairs]].
+Including when [[http]] based APIs returned data — rather than returning [[XML]] they retutned [[JSON]].
+
+But [[json]] also has its own problems and issues.
