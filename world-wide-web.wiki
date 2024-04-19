@@ -35,12 +35,20 @@ For more information on the **world wide web** see the following topics —
 §§§ H
 
 • [[html]]
+• [[http]]
+•• [[http/0.9]]
+•• [[http/1.0]]
+•• [[http/1.1]]
+•• [[http/2]]
+•• [[http/3]]
+• [[https]]
 
 §§§ I
 
 §§§ J
 
 • [[javascript]]
+• [[jquery]]
 
 §§§ K
 
@@ -62,9 +70,12 @@ For more information on the **world wide web** see the following topics —
 
 §§§ S
 
+• [[shttp]]
+
 §§§ T
 
 • [[the-web]]
+• [[typescript]]
 
 §§§ U
 
@@ -74,9 +85,13 @@ For more information on the **world wide web** see the following topics —
 
 • [[web-application]]
 • [[web-browser]]
+• [[web-client]]
 • [[web-development]]
+• [[web-developmer]]
+• [[web-master]]
 • [[web-page]]
 • [[web-site]]
+• [[web-server]]
 • [[wiki]]
 • [[world-wide-web]]
 • [[www]]
@@ -86,6 +101,8 @@ For more information on the **world wide web** see the following topics —
 • [[xhtml]]
 • [[xml]]
 • [[xpath]]
+• [[xsl]]
+• [[xslt]]
 • [[xul]]
 
 §§§ Y
