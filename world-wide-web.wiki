@@ -1,0 +1,93 @@
+wiki/1
+
+§ world-wide-web
+
+⸺ by Charles Iliya Krempeaux
+
+The **world wide web** is a very popular decentralized [[computer-network]] that runs on top of [[the-internet]].
+
+Nowadays, the name //world wide web// is either shortened to [[www]] or shortened to [[the-web]].
+
+§§ Topics
+
+For more information on the **world wide web** see the following topics —
+
+§§§ A
+
+• [[atom-format]]
+
+§§§ B
+
+§§§ C
+
+• [[css]]
+
+§§§ D
+
+§§§ E
+
+§§§ F
+
+§§§ G
+
+• [[golang]]
+
+§§§ H
+
+• [[html]]
+
+§§§ I
+
+§§§ J
+
+• [[javascript]]
+
+§§§ K
+
+§§§ L
+
+§§§ M
+
+§§§ N
+
+§§§ O
+
+§§§ P
+
+• [[php]]
+
+§§§ Q
+
+§§§ R
+
+§§§ S
+
+§§§ T
+
+• [[the-web]]
+
+§§§ U
+
+§§§ V
+
+§§§ W
+
+• [[web-application]]
+• [[web-browser]]
+• [[web-development]]
+• [[web-page]]
+• [[web-site]]
+• [[wiki]]
+• [[world-wide-web]]
+• [[www]]
+
+§§§ X
+
+• [[xhtml]]
+• [[xml]]
+• [[xpath]]
+• [[xul]]
+
+§§§ Y
+
+§§§ Z
