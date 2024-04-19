@@ -49,6 +49,7 @@ For more information on the **world wide web** see the following topics —
 
 • [[javascript]]
 • [[jquery]]
+• [[json]]
 
 §§§ K
 
@@ -71,6 +72,7 @@ For more information on the **world wide web** see the following topics —
 §§§ S
 
 • [[shttp]]
+• [[smil]]
 
 §§§ T
 
