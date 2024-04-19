@@ -102,6 +102,7 @@ For more information on the **world wide web** see the following topics —
 
 • [[xhtml]]
 • [[xml]]
+• [[xml-namespace]]
 • [[xpath]]
 • [[xsl]]
 • [[xslt]]
