@@ -1,0 +1,41 @@
+wiki/1
+
+§ XSPF
+
+⸺ by Charles Iliya Krempeaux
+
+**XSPF**, pronouced "//spiff//", and short for **XML Shareable Playlist Format**, is an XML-based playlist format.
+
+Software that supports the ability to play XSPF include VideoLAN's VLC.
+
+XSPF is part of Xiph's group of technologies.
+
+More information of XSPF can be found at: http://xspf.org/
+
+§§ Examples
+
+Here is one example **XSPF** file:
+
+	<?xml version="1.0" encoding="UTF-8"?>
+	<playlist version="1" xmlns="http://xspf.org/ns/0/">
+		<trackList>
+			<track><location>file:///music/song_1.ogg</location></track>
+			<track><location>file:///music/song_2.flac</location></track>
+			<track><location>file:///music/song_3.mp3</location></track>
+		</trackList>
+	</playlist>
+
+And here is another example **XSPF** file:
+
+	<?xml version="1.0" encoding="UTF-8"?>
+	<playlist version="1" xmlns="http://xspf.org/ns/0/">
+		<trackList>
+			<track><location>http://example.net/song_1.ogg</location></track>
+			<track><location>http://example.net/song_2.flac</location></track>
+			<track><location>http://example.com/song_3.mp3</location></track>
+		</trackList>
+	</playlist>
+
+§§ See Also
+
+• [[jspf]] (**json sharable playlist format**)
