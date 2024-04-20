@@ -28,6 +28,8 @@ For more information on the **world wide web** see the following topics —
 
 §§§ F
 
+• [[fediverse]]
+
 §§§ G
 
 • [[golang]]
@@ -51,6 +53,7 @@ For more information on the **world wide web** see the following topics —
 • [[javascript]]
 • [[jquery]]
 • [[json]]
+• [[jspf]]
 
 §§§ K
 
@@ -107,6 +110,7 @@ For more information on the **world wide web** see the following topics —
 • [[xpath]]
 • [[xsl]]
 • [[xslt]]
+• [[xspf]]
 • [[xul]]
 
 §§§ Y
