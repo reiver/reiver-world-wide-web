@@ -1,0 +1,9 @@
+wiki/1
+
+§ HTTP
+
+⸺ by Charles Iliya Krempeaux
+
+**HTTP**, short for **hypertext transfer protocol**, is the main protocol on which the [[world-wide-web]] is based.
+
+For better or worse, **HTTP** has become the defacto //presentation layer// of the Internet.
