@@ -1,0 +1,9 @@
+wiki/1
+
+§ The Web
+
+⸺ by Charles Iliya Krempeaux
+
+“**The Web**” is an alternative name for the “[[world-wide-web]]”.
+
+Most people below a certain age seem to only know the [[world-wide-web]] as “**the web**” — and are //not// aware that its full-name is **world wide web**.
