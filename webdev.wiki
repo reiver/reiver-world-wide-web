@@ -1,0 +1,7 @@
+wiki/1
+
+§ webdev
+
+⸺ by Charles Iliya Krempeaux
+
+“**webdev**” is an abbreviation for both “[[web-development]]” and “[[web-developer]]”.
