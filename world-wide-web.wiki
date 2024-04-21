@@ -75,7 +75,7 @@ For more information on the **world wide web** see the following topics —
 
 §§§ S
 
-• [[shttp]]
+• [[s-http]]
 • [[smil]]
 
 §§§ T
