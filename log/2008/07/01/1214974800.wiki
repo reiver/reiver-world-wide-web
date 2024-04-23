@@ -1,0 +1,108 @@
+wiki/1
+
+§ Writing Fractions in HTML
+
+⸺ by Charles Iliya Krempeaux
+
+⸺ published 2008-07-01T22:00:00-07:00
+
+**Fractions** are so much a part of our life. 
+We see them everywhere.
+And with pen and paper we write them frequently.
+
+But how do you write them on the computer‽
+How do you write them in //HTML//‽
+
+How do you write fractions like:
+
+• ''1''⁄,,10,,
+• ''3''⁄,,7,,
+• ''999''⁄,,1000,,
+
+‽
+
+§§ Using a Slash
+
+Most people who want to write a fraction on a computer use the //slash// character.
+It's a character on most keywords, and look like this....
+
+**/**
+
+So, for example, a fraction written using a //slash// might look like....
+
+3 / 7
+
+While this might get you by, it's hardly what you'd write with pen and paper.
+
+(The "line" should be more horizontal.
+And the numerator should be up top.
+And the denominator should be down under.)
+
+§§ HTML Fraction Entities
+
+//HTML// does have a small limited amout of special //HTML entities// for certain fractions.
+Namely....
+
+¼ (one quarter)
+
+½ (one half)
+
+¾ (three fourths)
+
+You can write these fractions with the follow HTML entities....
+
+	| Fraction | HTML Entity | Decimal Entity | Hexadecimal Entity |
+	|----------|-------------|----------------|--------------------|
+	|    ¼     |   &frac14;  |     &#188;     |       &#xBC;       |
+	|    ½     |   &frac12;  |     &#189;     |       &#xBD;       |
+	|    ¾     |   &frac34;  |     &#190;     |       &#xBE;       |
+
+However, what happens if you want to write a fraction besides these 3 fractions‽
+
+That's where the HTML [[fraction-slash]] comes into play.
+
+§§ HTML Fraction Slash
+
+With the HTML [[fraction-slash]] you can write any fraction you want.
+For example, here's one....
+
+''5''⁄,,9,,
+
+The key to writing fractions, in HTML, this way is the HTML [[fraction-slash]] entity.  This is created with the following HTML entity....
+
+	&frasl;
+
+Just a note, you can write this same HTML entity using its //decimal entity// and //hexadecimal entity// variations, as....
+
+	&#8260;
+
+	&#x2044;
+
+These two variations — the //decimal entity// and the //hexadecimal entity// — would be useful in cases where you cannot use the HTML ``&frasl;`` entity.
+Like in [[xml]], [[rss]], or [[atom-format]].
+
+Now, just using the HTML [[fraction-slash]] entity, by itself, is really not enough.
+Consider if you wrote something like the following....
+
+1&frasl;10
+
+... it will look like....
+
+1⁄10
+
+... which, as you can see, doesn't look right.
+
+What we want is the //numerator// to be up top, and the //denominator// to be down bottom.
+To do this we use the **HTML sup Element** and the **HTML sub Element**, respectively.
+
+So, the code ends up being....
+
+	<sup>1</sup>&frasl;<sub>10</sub>
+
+Which gives you....
+
+''1''⁄,,10,,
+
+Which looks closer to how a fraction should look like.
+
+And that's how you write a fraction in HTML.
