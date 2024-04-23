@@ -13,13 +13,7 @@ And with pen and paper we write them frequently.
 But how do you write them on the computer‽
 How do you write them in //HTML//‽
 
-How do you write fractions like:
-
-• ''1''⁄,,10,,
-• ''3''⁄,,7,,
-• ''999''⁄,,1000,,
-
-‽
+How do you write fractions like ''1''⁄,,10,,((,)) ''3''⁄,,7,,((,)) and ''999''⁄,,1000,,‽
 
 §§ Using a Slash
 
