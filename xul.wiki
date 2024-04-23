@@ -15,14 +15,14 @@ The [[xml-namespace]] for **XUL** is:
 
 §§ Ghostbusters Easter-Egg
 
-If you that page, you are greeted with the message:
+If you look at that page, you are greeted with the message:
 
-― There is no data.
+― There is no data. 
 ― There is only XUL!
 
 This is an //homage// to a line in the (original) **Ghostbusters** movie from the year 1984 —
 
-― There is no Dana.
+― There is no Dana. 
 ― There is only Zuul!
 
 §§ XUL Example
