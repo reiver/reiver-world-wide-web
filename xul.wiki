@@ -11,7 +11,7 @@ wiki/1
 
 The [[xml-namespace]] for **XUL** is:
 
-	http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul
+	http:/((/))www.mozilla.org/keymaster/gatekeeper/there.is.only.xul
 
 §§ Ghostbusters Easter-Egg
 
