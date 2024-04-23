@@ -44,4 +44,6 @@ These 2 similar technologies seemed to be created independently of each other an
 
 §§ XUL versus XAML
 
+XUL had been around for a long time before [[xaml]] showed up.
+
 [[XAML]] is essentially a copy of **XUL**.
